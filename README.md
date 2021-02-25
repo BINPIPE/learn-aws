@@ -8,7 +8,10 @@
 
 Curated List of Learning Resources
 --- |
-<mark>:ledger:[Lesson Plans & Videos](https://github.com/BINPIPE/resources/blob/master/devops-lesson-plans.md)</mark>
+<mark>:ledger:[Scaling on AWS (0-10K Users) ](https://github.com/BINPIPE/learn-aws/blob/master/Scaling-on-AWS-Part%20I_%20A%20Primer.pdf)</mark>
+<mark>:ledger:[Scaling on AWS (10K+ Users)](https://github.com/BINPIPE/learn-aws/blob/master/Scaling-on-AWS-10K-Users.pdf)</mark>
+<mark>:ledger:[Scaling on AWS (500K+ Users)](https://github.com/BINPIPE/learn-aws/blob/master/Scaling%20on%20AWS%20(Part%203)_%20_500K%20Users.pdf)</mark>
+<mark>:ledger:[Scaling on AWS (1 Million+ Users)](https://github.com/BINPIPE/learn-aws/blob/master/Scaling%20on%20AWS%20(Part%204)%20_%20_%20One%20Million%20Users.pdf)</mark>
 
 <pre>
 <a href="https://www.binpipe.org">BINPIPE</a> aims to simplify learning for those who are looking to make a foothold in the industry. 
