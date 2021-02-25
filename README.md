@@ -1,4 +1,4 @@
-# Learning Resources
+# Learning AWS Solutions Architecture
 
 `Learning Resources for DevOps, SRE, Cloud & Engineering Management`
 
